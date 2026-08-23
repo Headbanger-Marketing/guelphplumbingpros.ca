@@ -1,2 +1,25 @@
 # Guelph Plumbing Pros
-HVAC services in Ontario.
+
+> Guelph Plumbing Pros is a local HVAC company serving Guelph, Wellington, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 554-4288  |  Email: contact@guelphplumbingpros.ca  |  Website: https://guelphplumbingpros.ca
+
+## Key pages
+
+- [Home](https://guelphplumbingpros.ca/): Guelph Plumbing Pros homepage with service overview and FAQ
+- [About](https://guelphplumbingpros.ca/about/): About the company and service area
+- [Contact](https://guelphplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://guelphplumbingpros.ca/services/water-heaters/): Water Heaters in Guelph, Ontario
+- [Drain Cleaning](https://guelphplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Guelph, Ontario
+- [Repiping](https://guelphplumbingpros.ca/services/repiping/): Repiping in Guelph, Ontario
+- [Fixtures & Toilets](https://guelphplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Guelph, Ontario
+- [Leak Detection & Repair](https://guelphplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Guelph, Ontario
+- [Sump Pumps & Backwater](https://guelphplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Guelph, Ontario
+- [Water Softeners & Filtration](https://guelphplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Guelph, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Guelph are answered on the homepage.
